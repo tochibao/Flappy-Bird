@@ -1,0 +1,38 @@
+D:\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+D:\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+D:\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+D:\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+D:\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.SuggestedBindingRedirects.cache
+D:\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+D:\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+D:\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+D:\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+D:\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+D:\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+D:\FlappyBird\FlappyBird\obj\Debug\Interop.WMPLib.dll
+D:\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.ResolveComReference.cache
+D:\giua ki c#\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+D:\giua ki c#\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+D:\giua ki c#\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+D:\giua ki c#\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+D:\giua ki c#\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.SuggestedBindingRedirects.cache
+D:\giua ki c#\FlappyBird\FlappyBird\obj\Debug\Interop.WMPLib.dll
+D:\giua ki c#\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.ResolveComReference.cache
+D:\giua ki c#\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+D:\giua ki c#\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+D:\giua ki c#\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+D:\giua ki c#\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+D:\giua ki c#\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+D:\giua ki c#\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\New folder\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\New folder\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\FlappyBird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\New folder\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\FlappyBird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\New folder\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csprojAssemblyReference.cache
+C:\New folder\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\FlappyBird\FlappyBird\obj\Debug\Interop.WMPLib.dll
+C:\New folder\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.ResolveComReference.cache
+C:\New folder\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\New folder\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\FlappyBird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\New folder\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\New folder\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\FlappyBird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\New folder\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\FlappyBird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\New folder\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\Báo cáo giữa kì game Flappy Bird - Nhóm TTXB\FlappyBird\FlappyBird\obj\Debug\FlappyBird.pdb
